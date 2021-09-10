@@ -1,25 +1,3 @@
-[![Product Name Screen Shot](https://cdn-images-1.medium.com/max/2560/1*pOv2RLIpBkCLEeUGzH6iDg.jpeg)](https://pranesh-a-s.medium.com/build-your-own-cryptocurrency-price-alert-service-using-nodejs-51d6989dd062)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![language](https://img.shields.io/github/languages/top/PraneshASP/node-authentication-jwt-mongodb)]("https://github.com/PraneshASP/cryptocurrency-price-alert")
-[![vulnerability](https://img.shields.io/snyk/vulnerabilities/github/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/cryptocurrency-price-alert)
-[![repo size](https://img.shields.io/github/repo-size/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/cryptocurrency-price-alert)
-[![node version](https://img.shields.io/node/v/npm)](https://github.com/PraneshASP/cryptocurrency-price-alert)
-[![npm version](https://img.shields.io/npm/v/npm)](https://github.com/PraneshASP/cryptocurrency-price-alert)
-
-<!-- PROJECT LOGO -->
-<p align="center">
-  <h3 align="center">Building cryptocurrency price alert service from scratch</h3>
-  <p align="center">
-     <a href="https://pranesh-a-s.medium.com/build-your-own-cryptocurrency-price-alert-service-using-nodejs-51d6989dd062"><strong>Explore the post »</strong></a>
-     <br /> <br />
-    <a href="https://github.com/PraneshASP/cryptocurrency-price-alert/issues">Report Bug </a>
-    ·
-    <a href="https://github.com/PraneshASP/cryptocurrency-price-alert/issues"> Request Feature</a>
-  </p>
-</p>
-
-<!-- ABOUT THE PROJECT -->
 
 ### What's inside this repo?
 
@@ -63,7 +41,7 @@ To run this project, you'll need to have the following installed:
 
 2. Clone the repo :
    ```sh
-   git clone https://github.com/PraneshASP/cryptocurrency-price-alert.git
+   git clone https://github.com/vinu2837/vinucurrency.git
    ```
 3. Install dependencies (use `sudo` if required) :
 
